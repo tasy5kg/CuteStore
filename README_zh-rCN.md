@@ -8,7 +8,7 @@
 
 ## 截图
 
-<img src="./screenshot_1_zh-rCN.webp" alt="screenshot_1" width="270" /> <img src="./screenshot_2_zh-rCN.webp" alt="screenshot_2" width="270" /> <img src="./screenshot_3_zh-rCN.webp" alt="screenshot_3" width="270" /> <img src="./screenshot_4_zh-rCN.webp" alt="screenshot_4" width="270" /> 
+<img src="./screenshot_1_zh-rCN.webp" alt="screenshot_1" width="180" /> <img src="./screenshot_2_zh-rCN.webp" alt="screenshot_2" width="180" /> <img src="./screenshot_3_zh-rCN.webp" alt="screenshot_3" width="180" /> <img src="./screenshot_4_zh-rCN.webp" alt="screenshot_4" width="180" /> 
 
 ## 下载
 

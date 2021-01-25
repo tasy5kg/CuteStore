@@ -8,7 +8,7 @@ Cute Store is designed for shopkeepers to record the products' price. By scannin
 
 ## Screenchot
 
-<img src="./screenshot_1.webp" alt="screenshot_1" width="270" /> <img src="./screenshot_2.webp" alt="screenshot_2" width="270" /> <img src="./screenshot_3.webp" alt="screenshot_3" width="270" /> <img src="./screenshot_4.webp" alt="screenshot_4" width="270" /> 
+<img src="./screenshot_1.webp" alt="screenshot_1" width="180" /> <img src="./screenshot_2.webp" alt="screenshot_2" width="180" /> <img src="./screenshot_3.webp" alt="screenshot_3" width="180" /> <img src="./screenshot_4.webp" alt="screenshot_4" width="180" /> 
 
 ## Download
 
