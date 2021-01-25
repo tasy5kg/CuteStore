@@ -1,4 +1,4 @@
-**English** | [简体中文](https://github.com/tasy5kg/Cute-Store/blob/main/README_zh-rCN.md)
+**English** | [简体中文](https://github.com/tasy5kg/CuteStore/blob/main/README_zh-rCN.md)
 
 # Cute Store
 
@@ -8,11 +8,11 @@ Cute Store is designed for shopkeepers to record the products' price. By scannin
 
 ## Screenchot
 
-<img src="./screenshot_1.png" alt="screenshot_1" width="270" /> <img src="./screenshot_2.png" alt="screenshot_2" width="270" /> <img src="./screenshot_3.png" alt="screenshot_3" width="270" /> <img src="./screenshot_4.png" alt="screenshot_4" width="270" /> 
+<img src="./screenshot_1.webp" alt="screenshot_1" width="270" /> <img src="./screenshot_2.webp" alt="screenshot_2" width="270" /> <img src="./screenshot_3.webp" alt="screenshot_3" width="270" /> <img src="./screenshot_4.webp" alt="screenshot_4" width="270" /> 
 
 ## Download
 
-[Github Releases](https://github.com/tasy5kg/Cute-Store/releases)
+[Github Releases](https://github.com/tasy5kg/CuteStore/releases)
 
 ## Dependencies
 

@@ -1,4 +1,4 @@
-[English](https://github.com/tasy5kg/Cute-Store/blob/main/README.md) | **简体中文**
+[English](https://github.com/tasy5kg/CuteStore/blob/main/README.md) | **简体中文**
 
 # 小萌小卖部
 
@@ -8,11 +8,11 @@
 
 ## 截图
 
-<img src="./screenshot_1_zh-rCN.png" alt="screenshot_1" width="270" /> <img src="./screenshot_2_zh-rCN.png" alt="screenshot_2" width="270" /> <img src="./screenshot_3_zh-rCN.png" alt="screenshot_3" width="270" /> <img src="./screenshot_4_zh-rCN.png" alt="screenshot_4" width="270" /> 
+<img src="./screenshot_1_zh-rCN.webp" alt="screenshot_1" width="270" /> <img src="./screenshot_2_zh-rCN.webp" alt="screenshot_2" width="270" /> <img src="./screenshot_3_zh-rCN.webp" alt="screenshot_3" width="270" /> <img src="./screenshot_4_zh-rCN.webp" alt="screenshot_4" width="270" /> 
 
 ## 下载
 
-[Github Releases](https://github.com/tasy5kg/Cute-Store/releases)
+[Github Releases](https://github.com/tasy5kg/CuteStore/releases)
 
 ## 依赖项
 
