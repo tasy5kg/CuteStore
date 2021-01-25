@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Cute Store</string>
+    <string name="app_name_">Cute_Store</string>
+    <string name="delete">Delete</string>
+    <string name="save">SAVE</string>
+    <string name="price">Price</string>
+    <string name="saved">Saved</string>
+    <string name="deleted">Deleted</string>
+    <string name="export_successfully">Export successfully.</string>
+    <string name="export_failed">Export failed.</string>
+    <string name="import_successfully">Import successfully.</string>
+    <string name="import_failed">Import failed.</string>
+    <string name="import_failed_please_csv">Import failed. Please import a .csv file.</string>
+    <string name="product_name">Product name</string>
+    <string name="barcode">Barcode:</string>
+    <string name="flashlight">Flashlight</string>
+    <string name="manage_products">Manage products</string>
+    <string name="about">About</string>
+    <string name="introduction">Introduction</string>
+    <string name="introduction_text">Cute Store is designed for shopkeepers to record the products\' price. By scanning the barcode on the product, shopkeepers can record its name and price for future inquiries.</string>
+    <string name="privacy_statement">Privacy statement</string>
+    <string name="privacy_statement_text">Cute Store does not collect any user\'s data and will never connect to the internet. All your data are stored locally.</string>
+    <string name="permission_statement">Permission statement</string>
+    <string name="permission_statement_text">Cute Store needs camera permission to scan the barcode on the product.</string>
+    <string name="close">CLOSE</string>
+    <string name="exit">EXIT</string>
+    <string name="start">START</string>
+    <string name="delete_all_product_data">Delete all product data</string>
+    <string name="import_from_csv">Import product data from .csv</string>
+    <string name="_import">Import</string>
+    <string name="export_as_csv">Export product data as .csv</string>
+    <string name="export">Export</string>
+    <string name="tasy5kg_email_address" translatable="false">tasy5kg@qq.com</string>
+    <string name="cute_store_github_link" translatable="false">https://github.com/tasy5kg/Cute-Store</string>
+    <string name="dependencies">Dependencies</string>
+    <string name="donate_link" translatable="false">https://qr.alipay.com/fkx19871rnswjfeth8a9tfb</string>
+    <string name="dependencies_text" translatable="false">androidx.appcompat:appcompat:1.2.0\nme.dm7.barcodescanner:zbar:1.9.13\ncom.google.android.material:material:1.2.1\norg.litepal.guolindev:core:3.2.2</string>
+    <string name="donate_with_alipay">Donate with Alipay</string>
+    <string name="donate">Donate</string>
+    <string name="rate">Rate</string>
+    <string name="rate_text">Rate Cute Store in app market</string>
+    <string name="feedback">Feedback</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="view_source_code">View source code</string>
+    <string name="view_dependencies">View dependencies</string>
+    <string name="view_dependencies_text">View dependencies of Cute Store</string>
+    <string name="tasy5kg_name">tasy5kg</string>   <string name="please_give_five_stars">Please give 5 stars if you like this app!</string>
+    <string name="release_date">January 2021</string>
+    <string name="confirm_text_delete_this_product">Are you sure you want to delete this product from Cute Store?</string>
+    <string name="confirm_text_delete_all_product">Are you sure you want to delete all product data from Cute Store?</string>
+    <string name="version">Version&#160;%1$s</string>
+</resources>
